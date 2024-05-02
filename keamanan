@@ -1,3 +1,7 @@
 tambahan fitur baru agar baik
 1. perkuat kata sandi
+   * kata sandi minimal 6 angka dan 1 kata asing
+   * email hanya boleh 1 di satu user
 2. berikan hak akses login orang tertentu
+   * fitur login hanya di berikan kepada petugas
+   * dokter hanya boleh melihat dashboard
